@@ -37,9 +37,10 @@ SELECT * From Table1
 Where condition = True
 
 ### Data Visualization
-IMG_4200.png
+Few extracted columns from the table i worked on and image from the document i worked on
 
 
 |Employer's ID|Name| Department|
-|---------|---------|---------|
+|-------------|---------|---------|
+|AB204| Christian O| HR|
 
