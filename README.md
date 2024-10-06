@@ -35,3 +35,5 @@ This is where we calculate some basic lines of code or queries or even some of t
 1. SQL
 SELECT * From Table1
 Where condition = True
+
+### Data Visualization
