@@ -17,3 +17,8 @@ The primary data source of data used here is CSV file and this is an open source
     1. For querying data
 - Github 
    1. For portfolio building 
+
+### Data Cleaning and preparations
+   1. Data loading and inspection
+   2. Handling missing variables
+   3. Data cleaning and formatting
