@@ -1,10 +1,12 @@
 # LITA_CLASS_DOCUMENTATION
-This is where I documented my first project while learning Data Analysis with Incubator Hub/LITA
+
 ### Project Title : Data Analysis journey
 
 [Project Overview](#project~overview)
-[Data Sources](#data~sources) 
-Tools Used 
+
+[Data Sources](#data~sources)
+
+[Tools Used](#tools~used)
 Data Cleaning and Preparation
 Exploratory Data Analysis
 Data Analysis
