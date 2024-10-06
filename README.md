@@ -33,8 +33,8 @@ EDA involved the exploring of data to answer some questions about the data such 
 This is where we calculate some basic lines of code or queries or even some of the DAX expressions used during your analysis ;
 
 1. SQL
-SELECT * From Table1
-Where condition = True
+SELECT * From Employee
+Where AB309 = 'Admin'
 
 ### Data Visualization
 Few extracted columns from the table i worked on and image from the document i worked on
