@@ -22,3 +22,5 @@ The primary data source of data used here is CSV file and this is an open source
    1. Data loading and inspection
    2. Handling missing variables
    3. Data cleaning and formatting
+
+### Exploratory Data Analysis
