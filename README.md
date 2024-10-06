@@ -3,7 +3,6 @@ This is where I documented my first project while learning Data Analysis with In
 ### Project Title : Data Analysis journey
 
 ### Project Overview
----
 This project is to give details about my transistioning journey into Data Analysis.
 
 ### Data Sources
