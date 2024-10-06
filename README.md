@@ -32,7 +32,7 @@ EDA involved the exploring of data to answer some questions about the data such 
 ### Data Analysis
 This is where we calculate some basic lines of code or queries or even some of the DAX expressions used during your analysis ;
 
-''' SQL
-SELECT * From Table 1
+'''SQL
+SELECT * From Table1
 Where condition = True
 
