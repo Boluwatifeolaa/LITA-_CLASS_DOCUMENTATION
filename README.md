@@ -37,3 +37,4 @@ SELECT * From Table1
 Where condition = True
 
 ### Data Visualization
+src="https://i.imgur.com/IMG_4200.png"width="300"><img
