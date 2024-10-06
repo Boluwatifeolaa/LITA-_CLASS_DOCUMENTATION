@@ -24,3 +24,15 @@ The primary data source of data used here is CSV file and this is an open source
    3. Data cleaning and formatting
 
 ### Exploratory Data Analysis
+EDA involved the exploring of data to answer some questions about the data such as; 
+- What is the overall
+- Which product are top
+- What are
+
+### Data Analysis
+This is where we calculate some basic lines of code or queries or even some of the DAX expressions used during your analysis ;
+
+''' SQL
+SELECT * From Table 1
+Where condition = True
+
