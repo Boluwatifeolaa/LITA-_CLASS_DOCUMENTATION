@@ -12,7 +12,6 @@
 
 [Exploratory Data Analysis](#exploratory~data~analysis)
 
-[Data Analysis](#data~analysis)
 
 [Data Visualization](#data~visualization)
 
@@ -43,13 +42,6 @@ EDA involved the exploring of data to answer some questions about the data such 
 - What department has the highest staff
 - The most paid staff
 
-
-### Data Analysis
-This is where we calculate some basic lines of code or queries or even some of the DAX expressions used during your analysis ;
-
-1. SQL
-SELECT * From Employee
-Where AB309 = 'Admin'
 
 ### Data Visualization
 Few extracted columns from the table i worked on and image from the document i worked on
