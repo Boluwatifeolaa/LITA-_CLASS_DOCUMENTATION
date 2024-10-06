@@ -25,9 +25,9 @@ The primary data source of data used here is CSV file and this is an open source
 
 ### Exploratory Data Analysis
 EDA involved the exploring of data to answer some questions about the data such as; 
-- What is the overall
-- Which product are top
-- What are
+- What department has the highest staff
+- The most paid staff
+
 
 ### Data Analysis
 This is where we calculate some basic lines of code or queries or even some of the DAX expressions used during your analysis ;
@@ -43,4 +43,8 @@ Few extracted columns from the table i worked on and image from the document i w
 |Employer's ID|Name| Department|
 |-------------|---------|---------|
 |AB204| Christian O| HR|
+|AB308| Boluwatife A| IT|
+|AB309| Omolola I|Admin|
+|AB208| Ireti A| CSR|
+|AB 305| Funmi M| Account|
 
