@@ -10,10 +10,10 @@ The primary data source of data used here is CSV file and this is an open source
 
 ### Tools used 
 - Microsoft Excel  
-Data Cleaning
-For Analysis 
-For Visualization
+    1. Data Cleaning
+    2. For Analysis 
+    3. For Visualization
 - SQL - Structured Query Language 
-For querying data
+    1. For querying data
 - Github 
-For portfolio building 
+   1. For portfolio building 
