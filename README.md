@@ -1,6 +1,6 @@
 # LITA_CLASS_DOCUMENTATION
 
-### Project Title : Data Analysis journey
+### Project Title : Data Analysis journey.
 
 [Project Overview](#project~overview)
 
