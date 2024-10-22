@@ -52,6 +52,7 @@ where Staffid = 'AB402'
 update employee
 set secondname = 'Endurance'
 where staffid = 'AB405'
+```
 
 ### Data Visualization
 Few extracted columns from the table i worked on and image from the document i worked on
