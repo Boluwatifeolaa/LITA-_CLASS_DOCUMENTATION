@@ -64,6 +64,7 @@ where staffid = 'AB405'
 ---
 Few extracted columns from the table i worked on and image from the document i worked on
 
+![Uploading image.png…]()
 
 
 
