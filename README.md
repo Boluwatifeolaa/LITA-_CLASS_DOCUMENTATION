@@ -45,6 +45,14 @@ EDA involved the exploring of data to answer some questions about the data such 
 ### Data Analysis
 This is where we we include soe basic lines of code or queries or even some of the DAX expresions used during analysis;
 
+``` SQL
+select * from Salary
+where Staffid = 'AB402'
+
+update employee
+set secondname = 'Endurance'
+where staffid = 'AB405'
+
 ### Data Visualization
 Few extracted columns from the table i worked on and image from the document i worked on
 
